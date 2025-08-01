@@ -1,0 +1,10 @@
+[2025-07-24T17:09:04.933829] User: Look for a house in Austin city
+[2025-07-24T17:09:04.933860] Model: There are no houses available in Austin city. 
+
+
+[2025-07-24T17:09:25.398840] User: And state TX
+[2025-07-24T17:09:25.398866] Model: There are no houses available in Austin, TX. Would you like to see if there are any other types of properties available in Austin, TX?
+
+[2025-07-24T17:10:00.657812] User: Check again
+[2025-07-24T17:10:00.657845] Model: There are no houses available in Austin, TX. Would you like to see if there are any other types of properties available in Austin, TX?
+
